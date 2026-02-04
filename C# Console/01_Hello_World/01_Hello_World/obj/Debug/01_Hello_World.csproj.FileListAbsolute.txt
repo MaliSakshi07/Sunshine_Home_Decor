@@ -1,0 +1,6 @@
+E:\C# Console\01_Hello_World\01_Hello_World\bin\Debug\01_Hello_World.exe.config
+E:\C# Console\01_Hello_World\01_Hello_World\bin\Debug\01_Hello_World.exe
+E:\C# Console\01_Hello_World\01_Hello_World\bin\Debug\01_Hello_World.pdb
+E:\C# Console\01_Hello_World\01_Hello_World\obj\Debug\01_Hello_World.csproj.CoreCompileInputs.cache
+E:\C# Console\01_Hello_World\01_Hello_World\obj\Debug\01_Hello_World.exe
+E:\C# Console\01_Hello_World\01_Hello_World\obj\Debug\01_Hello_World.pdb

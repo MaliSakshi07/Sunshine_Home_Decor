@@ -1,0 +1,6 @@
+E:\C# Console\02_Odd_Even_Program\02_Odd_Even_Program\bin\Debug\02_Odd_Even_Program.exe.config
+E:\C# Console\02_Odd_Even_Program\02_Odd_Even_Program\bin\Debug\02_Odd_Even_Program.exe
+E:\C# Console\02_Odd_Even_Program\02_Odd_Even_Program\bin\Debug\02_Odd_Even_Program.pdb
+E:\C# Console\02_Odd_Even_Program\02_Odd_Even_Program\obj\Debug\02_Odd_Even_Program.csproj.CoreCompileInputs.cache
+E:\C# Console\02_Odd_Even_Program\02_Odd_Even_Program\obj\Debug\02_Odd_Even_Program.exe
+E:\C# Console\02_Odd_Even_Program\02_Odd_Even_Program\obj\Debug\02_Odd_Even_Program.pdb

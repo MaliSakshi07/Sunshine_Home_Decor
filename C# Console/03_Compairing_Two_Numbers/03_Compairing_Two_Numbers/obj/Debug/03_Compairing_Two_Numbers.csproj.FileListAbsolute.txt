@@ -1,0 +1,7 @@
+E:\C# Console\03_Compairing_Two_Numbers\03_Compairing_Two_Numbers\bin\Debug\03_Compairing_Two_Numbers.exe.config
+E:\C# Console\03_Compairing_Two_Numbers\03_Compairing_Two_Numbers\bin\Debug\03_Compairing_Two_Numbers.exe
+E:\C# Console\03_Compairing_Two_Numbers\03_Compairing_Two_Numbers\bin\Debug\03_Compairing_Two_Numbers.pdb
+E:\C# Console\03_Compairing_Two_Numbers\03_Compairing_Two_Numbers\obj\Debug\03_Compairing_Two_Numbers.csproj.AssemblyReference.cache
+E:\C# Console\03_Compairing_Two_Numbers\03_Compairing_Two_Numbers\obj\Debug\03_Compairing_Two_Numbers.csproj.CoreCompileInputs.cache
+E:\C# Console\03_Compairing_Two_Numbers\03_Compairing_Two_Numbers\obj\Debug\03_Compairing_Two_Numbers.exe
+E:\C# Console\03_Compairing_Two_Numbers\03_Compairing_Two_Numbers\obj\Debug\03_Compairing_Two_Numbers.pdb

@@ -1,0 +1,6 @@
+E:\C# Console\Numbers\Armstrong_Numbers\Armstrong_Numbers\bin\Debug\Armstrong_Numbers.exe.config
+E:\C# Console\Numbers\Armstrong_Numbers\Armstrong_Numbers\bin\Debug\Armstrong_Numbers.exe
+E:\C# Console\Numbers\Armstrong_Numbers\Armstrong_Numbers\bin\Debug\Armstrong_Numbers.pdb
+E:\C# Console\Numbers\Armstrong_Numbers\Armstrong_Numbers\obj\Debug\Armstrong_Numbers.csproj.CoreCompileInputs.cache
+E:\C# Console\Numbers\Armstrong_Numbers\Armstrong_Numbers\obj\Debug\Armstrong_Numbers.exe
+E:\C# Console\Numbers\Armstrong_Numbers\Armstrong_Numbers\obj\Debug\Armstrong_Numbers.pdb

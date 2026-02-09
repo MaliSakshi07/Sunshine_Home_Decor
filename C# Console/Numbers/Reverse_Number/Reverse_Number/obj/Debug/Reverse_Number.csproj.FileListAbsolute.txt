@@ -1,0 +1,6 @@
+E:\C# Console\Numbers\Reverse_Number\Reverse_Number\bin\Debug\Reverse_Number.exe.config
+E:\C# Console\Numbers\Reverse_Number\Reverse_Number\bin\Debug\Reverse_Number.exe
+E:\C# Console\Numbers\Reverse_Number\Reverse_Number\bin\Debug\Reverse_Number.pdb
+E:\C# Console\Numbers\Reverse_Number\Reverse_Number\obj\Debug\Reverse_Number.csproj.CoreCompileInputs.cache
+E:\C# Console\Numbers\Reverse_Number\Reverse_Number\obj\Debug\Reverse_Number.exe
+E:\C# Console\Numbers\Reverse_Number\Reverse_Number\obj\Debug\Reverse_Number.pdb

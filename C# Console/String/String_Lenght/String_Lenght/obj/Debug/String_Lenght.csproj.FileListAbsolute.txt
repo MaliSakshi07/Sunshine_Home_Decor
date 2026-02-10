@@ -1,0 +1,6 @@
+E:\C# Console\String\String_Lenght\String_Lenght\bin\Debug\String_Lenght.exe.config
+E:\C# Console\String\String_Lenght\String_Lenght\bin\Debug\String_Lenght.exe
+E:\C# Console\String\String_Lenght\String_Lenght\bin\Debug\String_Lenght.pdb
+E:\C# Console\String\String_Lenght\String_Lenght\obj\Debug\String_Lenght.csproj.CoreCompileInputs.cache
+E:\C# Console\String\String_Lenght\String_Lenght\obj\Debug\String_Lenght.exe
+E:\C# Console\String\String_Lenght\String_Lenght\obj\Debug\String_Lenght.pdb

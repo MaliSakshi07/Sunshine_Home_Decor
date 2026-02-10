@@ -1,0 +1,6 @@
+E:\C# Console\String\String_Reverse\String_Reverse\bin\Debug\String_Reverse.exe.config
+E:\C# Console\String\String_Reverse\String_Reverse\bin\Debug\String_Reverse.exe
+E:\C# Console\String\String_Reverse\String_Reverse\bin\Debug\String_Reverse.pdb
+E:\C# Console\String\String_Reverse\String_Reverse\obj\Debug\String_Reverse.csproj.CoreCompileInputs.cache
+E:\C# Console\String\String_Reverse\String_Reverse\obj\Debug\String_Reverse.exe
+E:\C# Console\String\String_Reverse\String_Reverse\obj\Debug\String_Reverse.pdb
